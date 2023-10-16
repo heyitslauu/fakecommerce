@@ -1,0 +1,64 @@
+{
+  "games": [
+    {
+      "name": "Honkai: Star Rail",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/hsr_tile.jpg",
+      "alt": "onkai: Star Rail"
+    },
+    {
+      "name": "Mobile Legends",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/MLBB-Next-tile_sept23.jpg",
+      "alt": "Mobile Legends"
+    },
+    {
+      "name": "EA Sports FC Mobile",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/fc_mobile_tile.jpg",
+      "alt": "Game 3"
+    },
+    {
+      "name": "Call of Duty Mobile",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/codmobile_tile.jpg",
+      "alt": "Call of Duty Mobile"
+    },
+    {
+      "name": "League of Legends: Wild Rift",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/PH_Tile-WildRift-AODiscount.jpg",
+      "alt": "League of Legends: Wild Rift"
+    },
+    {
+      "name": "Valorant",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/PH_Tile-Valorant_5%25AO_upto200.jpg",
+      "alt": "Valorant"
+    },
+    {
+      "name": "Farlight",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/Farlight84_NEW_June23-tile.png",
+      "alt": "Farlight"
+    },
+    {
+      "name": "Steam Wallet Code",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/swc_ccph_tile.jpg",
+      "alt": "Steam Wallet Code"
+    },
+    {
+      "name": "Clash of Clans",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/clash_of_clans_20percent_bonus.jpg",
+      "alt": "Clash of Clans"
+    },
+    {
+      "name": "Clash Royale",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/clash_royale_20percent_bonus.jpg",
+      "alt": "Clash Royale"
+    },
+    {
+      "name": "Metal Slug: Awakening",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/Metal_Slug_178.png",
+      "alt": "Metal Slug: Awakening"
+    },
+    {
+      "name": "Azar",
+      "src": "https://cdn1.codashop.com/S/content/mobile/images/product-tiles/azar_videochat_tile.jpg.jpg",
+      "alt": "Azar"
+    }
+  ]
+}
